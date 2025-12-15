@@ -1,7 +1,7 @@
 /*
-Name: Nakul Anil Vadar
+Name: vaibhav chavan
 Project Name: Steganography (Image-based Data Hiding)
-Batch ID: 25021_325
+Batch ID: 25021_327
 Submission Date: 03/11/2025
 
 Description:
